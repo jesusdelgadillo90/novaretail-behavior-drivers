@@ -1,4 +1,4 @@
-![image alt]( https://github.com/jesusdelgadillo90/novaretail-behavior-drivers/blob/2df4c1399c81c6f15cd25d3ccace3d9ea6386b6b/c9959e51-3097-4b49-b706-86024ca66433.webp )
+![image alt](https://github.com/jesusdelgadillo90/novaretail-behavior-drivers/blob/2df4c1399c81c6f15cd25d3ccace3d9ea6386b6b/c9959e51-3097-4b49-b706-86024ca66433.webp)
 
 Análisis correlacional y exploratorio sobre el dataset `novaretail_comportamiento_clientes_2024.csv` (**15,000 clientes** y **12 variables** de comportamiento, segmentación y valor económico) para **NovaRetail+** durante 2024, enfocado en entender qué factores se asocian con el `ingreso_anual` sin confundir correlación con causalidad.
 
